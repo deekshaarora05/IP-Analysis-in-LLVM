@@ -1,9 +1,5 @@
 Interprocedural Analysis in LLVM using Value Contexts
 
-Sign Analysis runs perfectly
-
-Copy Constant Propagation doesn't
-
 To make:
 $ make
 
